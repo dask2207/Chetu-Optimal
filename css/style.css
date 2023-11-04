@@ -230,7 +230,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(1) .image:nth-child(1){
-    background: url('..//images/Product-seller-1.jpg');
+    background: url('./images/Product-seller-1.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
