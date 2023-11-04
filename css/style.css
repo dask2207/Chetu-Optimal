@@ -293,7 +293,8 @@ nav{
 
 
 .best-seller .col-xl-3:nth-of-type(1) .image:nth-child(1):hover{
-    background: url('../images/Product-seller-1-1.jpg');
+/*     background: url('../images/Product-seller-1-1.jpg'); */
+    background-color:#222;
     background-size: cover;
     background-position-x: center;
     height: 50vh;
