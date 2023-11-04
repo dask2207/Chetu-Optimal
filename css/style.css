@@ -230,7 +230,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(1) .image:nth-child(1){
-    background: url('./images/Product-seller-1.jpg');
+    background: url('../images/Product-seller-1.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -301,7 +301,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(2) .image:nth-child(1){
-    background: url('..//images/Product-seller-2.jpg');
+    background: url('../images/Product-seller-2.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -339,7 +339,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(2) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-2-2.jpg');
+    background: url('../images/Product-seller-2-2.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -347,7 +347,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(3) .image:nth-child(1){
-    background: url('..//images/Product-seller-3.jpg');
+    background: url('../images/Product-seller-3.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -385,7 +385,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(3) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-3-3.jpg');
+    background: url('../images/Product-seller-3-3.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -393,7 +393,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(4) .image:nth-child(1){
-    background: url('..//images/Product-seller-4.jpg');
+    background: url('../images/Product-seller-4.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -431,7 +431,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(4) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-4-4.jpg');
+    background: url('../images/Product-seller-4-4.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -439,7 +439,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(5) .image:nth-child(1){
-    background: url('..//images/Product-seller-5.jpg');
+    background: url('../images/Product-seller-5.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -477,7 +477,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(5) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-5-5.jpg');
+    background: url('../images/Product-seller-5-5.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -485,7 +485,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(6) .image:nth-child(1){
-    background: url('..//images/Product-seller-6.jpg');
+    background: url('../images/Product-seller-6.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -523,7 +523,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(6) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-6-6.jpg');
+    background: url('../images/Product-seller-6-6.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -531,7 +531,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(7) .image:nth-child(1){
-    background: url('..//images/Product-seller-7.jpg');
+    background: url('../images/Product-seller-7.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -569,7 +569,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(7) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-7-7.jpg');
+    background: url('../images/Product-seller-7-7.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -577,7 +577,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(8) .image:nth-child(1){
-    background: url('..//images/Product-seller-8.jpg');
+    background: url('../images/Product-seller-8.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -615,7 +615,7 @@ nav{
 }
 
 .best-seller .col-xl-3:nth-of-type(8) .image:nth-child(1):hover{
-    background: url('..//images/Product-seller-8-8.jpg');
+    background: url('../images/Product-seller-8-8.jpg');
     background-size: cover;
     background-position-x: center;
     height: 50vh;
@@ -653,7 +653,7 @@ nav{
 /* Testimonial */
 
 .testimonial{
-    background: url('..//images/testimonial.jpg');
+    background: url('../images/testimonial.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
